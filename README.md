@@ -3,6 +3,9 @@ I'm an aspiring Cybersecurity Analyst with hands-on experience in security opera
 
 This repository highlights my cybersecurity projects, showcasing my skills in threat detection, system hardening, data analysis, and remediation planning.
 
+## My Projects
+
+- 🔐 [Vulnerability Management Project](https://github.com/mikexthomas/Vulnerability-Assessment-Project)
 <!--
 **mikexthomas/mikexthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
