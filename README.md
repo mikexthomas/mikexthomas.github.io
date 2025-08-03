@@ -6,3 +6,4 @@ This repository highlights my cybersecurity projects, showcasing my skills in th
 ## My Projects
 
 - 🔐 [Vulnerability Management Project](https://github.com/mikexthomas/Vulnerability-Assessment-Project)
+- 🔎 [SQL Investigation Project](https://github.com/mikexthomas/SQL-Investigation-Project)
